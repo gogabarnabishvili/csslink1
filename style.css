@@ -1,0 +1,18 @@
+section h3 {
+    color: #ff0000;
+}
+section p {
+    color: #949494;
+}
+div h3 {
+    color: #2400ff;
+}
+div p {
+    color: #ff2929;
+}
+div div h3 {
+    color: #00461c;
+}
+div div p {
+    color: #000000;
+}
